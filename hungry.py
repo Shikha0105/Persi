@@ -1,6 +1,6 @@
 print("shikha")
 
 print("priya")
-print("raj")
+print("rahul")
 print("I m thirsty")
 
