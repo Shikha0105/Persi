@@ -5,3 +5,4 @@ print("priya")
 print("I m thirsty")
 
 print("naina")
+print("diff")
